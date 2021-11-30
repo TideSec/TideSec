@@ -17,7 +17,7 @@
  
 3. 若用本人项目去进行：HW演练/红蓝对抗/APT/黑产/恶意行为/违法行为/割韭菜，等行为，本人概不负责，也与本人无关。
 
-4. 本人已不参与大小HW活动的攻击方了，若溯源到`重剑无锋`ID与本人无关。
+4. 本人已不参与大小HW活动的攻击方了，若溯源到ID：`重剑无锋`与本人无关。
 
 ## Visit Count
 ![Visitor Count](https://profile-counter.glitch.me/tidesec/count.svg)
