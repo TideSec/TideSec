@@ -9,7 +9,7 @@
 - 📫 联系我: xyguest@gmail.com
 
 
-## 关于GayHub
+## 关于【本Hub】
 
 1. 乙方安全狗，平常比较忙，很多issues也来不及回，见谅。
  
