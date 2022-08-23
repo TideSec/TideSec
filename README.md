@@ -21,3 +21,15 @@
 
 ## Visit Count
 ![Visitor Count](https://profile-counter.glitch.me/tidesec/count.svg)
+
+## Visit Count
+
+[![](https://visitor-badge.laobi.icu/badge?page_id=tidesec)](https://visitor-badge.laobi.icu/badge?page_id=tidesec)
+[![Mail Badge](https://img.shields.io/badge/-xyguest@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:xyguest@gmail.com)](mailto:xyguest@gmail.com)
+[![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-Tide%E5%AE%89%E5%85%A8%E5%9B%A2%E9%98%9F-71f9fe?logo=WeChat)](http://paper.tidesec.com)
+
+[![](https://img.shields.io/badge/WebSite-Tide%E5%AE%89%E5%85%A8%E5%9B%A2%E9%98%9F-71f9fe?logo=icon)](https://www.tidesec.com)
+
+[![](https://img.shields.io/badge/Wiki-Tide%E5%AE%89%E5%85%A8%E6%96%87%E5%BA%93-d7b1bf?logo=Blogger)](http://wiki.tidesec.com)
+
+[![](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/eryajf/awesome-stars-eryajf#readme)
