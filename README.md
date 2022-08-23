@@ -20,9 +20,6 @@
 4. 本人已不参与大小HW活动的攻击方了，若溯源到ID：`重剑无锋`与本人无关。
 
 ## Visit Count
-![Visitor Count](https://profile-counter.glitch.me/tidesec/count.svg)
-
-## Visit Count
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=tidesec)](https://visitor-badge.laobi.icu/badge?page_id=tidesec)
 [![Mail Badge](https://img.shields.io/badge/-xyguest@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:xyguest@gmail.com)](mailto:xyguest@gmail.com)
