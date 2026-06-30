@@ -1,6 +1,6 @@
 ## 关于【重剑无锋】
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=tidesec&count_private=true&show_icons=true" width="380">
+<img align='right' src="https://github-stats-extended.vercel.app/api?username=tidesec&count_private=true&show_icons=true" width="380">
 
 - [Tide安全团队](http://www.tidesec.com/) 创建者&&核心成员
 - Web/工控/免杀 安全爱好者
